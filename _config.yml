@@ -5,13 +5,13 @@ description: 欢迎来到我的个人站~
 # 头像里面的标题
 avatarTitle: Alongs
 # 头像里面的描述
-avatarDesc: iOS / 
+avatarDesc: iOS 
 # url: "http://baixin.io"
 
 # Comment
 comment:
     disqus: Caolongs
-    uyan: 2158867  # 有言id,登录有言官网申请
+    # uyan: 2158867  # 有言id,登录有言官网申请
 
 # Social
 social:
