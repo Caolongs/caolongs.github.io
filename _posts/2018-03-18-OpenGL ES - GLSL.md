@@ -393,7 +393,7 @@ buffer分为frame buffer 和 render buffer2个大类。其中frame buffer 相当
 ```
 
 
-[DEMO](https://github.com/Caolongs/OpenGL-ES---GLKit)
+[DEMO](https://github.com/Caolongs/OpenGL-ES---GLSL)
 
 
 
