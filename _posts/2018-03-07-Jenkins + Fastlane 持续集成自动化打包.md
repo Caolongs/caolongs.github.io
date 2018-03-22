@@ -42,9 +42,11 @@ https://jenkins.io/
 ## Jenkins 使用
 
 #### 1. 启动Jenkins
+
     ```
     $ jenkins
     ```
+
 #### 2. 访问 http://localhost:8080/
     
     ```
