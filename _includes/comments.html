@@ -6,7 +6,7 @@
     <script type="text/javascript" src="http://v2.uyan.cc/code/uyan.js?uid="+'{{ site.comment.uyan }}'></script>
 
   {% elsif site.comment.disqus %}
-    <!-- <div id="disqus_thread"></div> -->
+    <div id="disqus_thread"></div>
     <script>
     var disqus_config = function () {
         this.page.url = "{{ page.url | prepend: site.baseurl | prepend: site.url }}";
@@ -21,7 +21,7 @@
             (d.head || d.body).appendChild(s);
         })();
     </script>
-    <!-- <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript> -->
+    <noscript>要查看<a href="http://disqus.com/?ref_noscript"> Disqus </a>评论，请启用 JavaScript</noscript>
 
     
   {% endif %}

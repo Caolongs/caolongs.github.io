@@ -10,8 +10,8 @@ avatarDesc: iOS
 
 # Comment
 comment:
-    disqus: Caolongs
-    uyan: 2158867  # 有言id,登录有言官网申请
+    disqus: caolongs
+    #uyan: 2158867  # 有言id,登录有言官网申请
 
 # Social
 social:
