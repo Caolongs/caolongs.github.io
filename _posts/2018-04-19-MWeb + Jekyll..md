@@ -50,6 +50,18 @@ cd 到github.io当前目录下，执行git提交命令即刻完成上传
 
 更多知识待研究，如发布脚本。。。
 
+### 6. MWeb 强大的建站的功能
+
+假如，你还没在Gihub Page 上还未使用 Jekyll 等静态网站生成器，那么恭喜你，MWeb 已经提供了静态网站生成功能。简单、很简单。。。
+
+> 建站入口：(双击分类目录)
+
+![](/images/media/15242029559688.jpg)
+
+> 添加文档，一键脚本就能发布
+
+[如何使用“发布脚本”功能发布静态网站](http://zh.mweb.im/how_to_use_shell_script.html)
+
 ## 其他
 更多学习请参照  [MWeb for Mac 帮助](http://zh.mweb.im/help.html)
 
