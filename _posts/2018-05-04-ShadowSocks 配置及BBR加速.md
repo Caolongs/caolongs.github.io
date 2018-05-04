@@ -139,9 +139,11 @@ https://github.com/gaoshilei/ShadowsocksX-NG/releases/download/1.4.3-R8-build3/S
 
 
 ## 参考
-[轻松在 VPS 搭建 Shadowsocks 翻墙 ](https://www.diycode.cc/topics/738)
-[Shadowsocks 一键安装脚本（四合一）](https://teddysun.com/486.html)
-[一键安装最新内核并开启 BBR 脚本](https://teddysun.com/489.html)
+轻松在 VPS 搭建 Shadowsocks 翻墙 [https://www.diycode.cc/topics/738](https://www.diycode.cc/topics/738)
+
+Shadowsocks 一键安装脚本（四合一）[https://teddysun.com/486.html](https://teddysun.com/486.html)
+
+一键安装最新内核并开启 BBR 脚本[https://teddysun.com/489.html](https://teddysun.com/489.html)
 
 
 
