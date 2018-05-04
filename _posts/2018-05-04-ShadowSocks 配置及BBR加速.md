@@ -123,7 +123,6 @@ $ lsmod | grep bbr
 ## 安装 ShadowsocksR 客户端
 
 [MAC版ShadowsocksX-NG-R](https://github.com/qinyuhang/ShadowsocksX-NG-R/releases)
-https://github.com/gaoshilei/ShadowsocksX-NG/releases/download/1.4.3-R8-build3/ShadowsocksX-NG-R8.dmg
 
 下载ShadowsocksR配置服务器设置，填写相关信息
 
