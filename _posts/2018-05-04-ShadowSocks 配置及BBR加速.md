@@ -75,17 +75,53 @@ Enjoy it!
 ```
 
 #### 4. shadowsocks 常用命令
-卸载方法
+#### 卸载方法
 
 ```
 $ ./shadowsocks-all.sh uninstall
 ```
 
-启动脚本(ShadowsocksR 版)：
+##### 启动脚本(ShadowsocksR 版)：
 
 ```
 /etc/init.d/shadowsocks-r start | stop | restart | status
 ```
+
+##### 多开端口
+
+- 找到配置文件`/etc/shadowsocks-r/config.json`或（`/etc/shadowsocks.json`）,修改如下：
+
+
+
+```
+{
+    "server_port":9998,
+    "password":"123456",
+}
+
+改为
+{
+    "port_password":{
+        "9998":"password1",
+        "9999":"password2"
+     },
+}
+```
+
+
+- 检测某个端口是否开启,返回`yes`说明已开启
+
+```
+$ firewall-cmd --query-port=9998/tcp --zone=public #查询9998端口是否开启
+```
+
+- 开启某端口代码
+
+```
+firewall-cmd --zone=public --add-port=9998/tcp --permanent #添加9998端口
+```
+
+- 最后，重启VPS服务器`reboot`
 
 #### 5. BBR 脚本
 
