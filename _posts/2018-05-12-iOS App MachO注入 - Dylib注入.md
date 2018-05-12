@@ -53,7 +53,7 @@ INJECT_FRAMEWORK_RELATIVE_PATH="Frameworks/libHookDylib.dylib"
 ```
 
 
-### 4. 注入代码
+### 5. 注入代码
 实现`load`方法，利用`Method Swizzle`实现修改
 
 ![](/images/media/15261063573092.jpg)
