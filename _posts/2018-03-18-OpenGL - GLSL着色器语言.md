@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Open GL - GLSL着色器语言"
+title: "OpenGL - GLSL着色器语言"
 date: 2018-03-18 
 description: "------"
 tag: OpenGL 

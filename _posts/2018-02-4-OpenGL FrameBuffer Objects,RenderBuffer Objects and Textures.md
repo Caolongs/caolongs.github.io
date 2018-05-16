@@ -6,7 +6,6 @@ description: "------"
 tag: OpenGL 
 --- 
 
-# OpenGL FrameBuffer Objects,RenderBuffer Objects and Textures
 
 
 ### RenderBuffer
