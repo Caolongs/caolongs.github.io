@@ -8,7 +8,7 @@ tag: OpenGL
 
 
 
-# OpenGL ES - GLSL
+
 
 不采用GLKBaseEffect，使用编译链接自定义的着色器（shader）。用简单的glsl语言来实现顶点、片元着色器，并图形进行简单的变换。
 

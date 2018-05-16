@@ -8,7 +8,7 @@ tag: CI
 
 
 
-# Jenkins + Fastlane 持续集成自动化打包
+
 
 > 本文使用 Jenkins 与 Fastlane 结合使用自动编译打包至蒲公英
 

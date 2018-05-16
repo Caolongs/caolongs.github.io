@@ -6,7 +6,7 @@ description: "------"
 tag: 工具
 ---  
 
-# Go2Shell and AppleScript
+
 
 > 给Finder加上一个打开当前路径的终端的功能
 

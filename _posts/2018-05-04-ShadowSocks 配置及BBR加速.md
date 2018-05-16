@@ -7,7 +7,7 @@ tag: 工具
 ---
 
 
-# ShadowSocks 配置及BBR加速
+
 
 ShadowSocks势必先要后买VPS，本人目前使用的是 [Vultr](https://www.vultr.com/?ref=7305309), 购买流程此文不再赘述。
 

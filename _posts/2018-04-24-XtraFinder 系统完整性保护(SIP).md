@@ -6,7 +6,7 @@ description: "------"
 tag: 工具
 --- 
 
-# XtraFinder 系统完整性保护(SIP) 
+ 
 [XtraFinder 系统完整性保护原文](http://www.trankynam.com/xtrafinder/sip.html)（译）
 
 ### 1、关于OS X 10.11中的系统完整性保护
